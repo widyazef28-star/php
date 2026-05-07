@@ -3,7 +3,7 @@
 // kalau tidak ada baru pakai data di dalam kutip.
 $host = getenv('MYSQLHOST') ?: "mysql.railway.internal";
 $user = getenv('MYSQLUSER') ?: "root";
-$pass = getenv('MYSQLPASSWORD') ?: "XjoAlLUEkOLWBxVdyakegkQDsTDsZkAZ";
+$pass = getenv('MYSQLPASSWORD') ?: "GjaapjGnwxnOsXfFmjIzAyWPXhFcrBmA";
 $db   = getenv('MYSQLDATABASE') ?: "railway";
 $port = getenv('MYSQLPORT') ?: 3306;
 
